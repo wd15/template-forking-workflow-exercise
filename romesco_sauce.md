@@ -2,7 +2,7 @@
 
 # Romesco
 
-This recipe is taken as an example from https://allrecipes.com/recipe/blah
+This recipe is taken as an example from https://allrecipes.com/recipe/something_something
 
 - 6 roma tomatoes, halves
 - 1 large red bell pepper, quartered
